@@ -3,7 +3,7 @@ title: Alex Blog
 SEOTitle: 刘天骄的博客 | Alex Blog
 header-img: img/post-bg-desk.jpg
 email: liutianjiao07@gmail.com
-description: "Every failure is leading towards success."
+description: "We're here to put a dent in the universe. Otherwise why else even be here?"
 keyword: "刘天骄，Alex，刘天骄的博客，Alex Blog,"
 url: "http://liutianjiao1023.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 7c602f094c0bb24ff212                            #生成的clientID
-  clientSecret: 8d8c51639a7ce02ec647eb7f8720c091c4a209f6    #生成的clientSecret
+  clientID: 2e6c0ed7cc70231ae68c                            #生成的clientID
+  clientSecret: d3417b248e970da9832122211d248dc4214bd371    #生成的clientSecret
   repo: liutianjiao1023.github.io    #仓库名称
   owner: liutianjiao1023    #github用户名
   admin: liutianjiao1023
